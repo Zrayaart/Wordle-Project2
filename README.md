@@ -1,6 +1,6 @@
-# Project 2 - *Name of App Here*
+# Project 2 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: Soraya Sardine
 
 Wordle is an app that ... [TODO] 
 
